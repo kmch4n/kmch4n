@@ -8,10 +8,4 @@
   <a href="https://github.com/kmch4n">
     <img height="20" src="https://img.shields.io/github/followers/kmch4n?label=follow&logo=github&style=flat" />
   </a>
-  <a href="http://qiita.com/kmch4n">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/kmch4n/posts.svg" />
-  </a>
-  <//qiita.com/kmch4n">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/yutkat/contributions.svg" />
-  </a>
 </p>
