@@ -2,5 +2,4 @@
 ![Visitors](https://visitor-badge.glitch.me/badge?page_id=kmch4n&left_color=gray&right_color=blue)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=contiki9&show_icons=true)
- 
 ![SPotify](https://spotify-recently-played-readme.vercel.app/api?user=bnvav3nirz5nqy3hu41mi2m7m)
