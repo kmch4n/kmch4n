@@ -16,7 +16,3 @@
 
 # Stats
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kmch4n&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kmch4n&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kmch4n&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=kmch4n&theme=gruvbox)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kmch4n&theme=gruvbox&utcOffset=9)
