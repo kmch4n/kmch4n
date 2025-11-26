@@ -6,7 +6,7 @@
 
 ## 🎓 About Me
 
-I'm an economics student at **Doshisha University** in Kyoto, Japan, passionate about exploring the intersection of **technology and economics** in the modern world. I combine technical skills with economic analysis to understand and build solutions for today's challenges.
+I'm an economics student at **Doshisha University** in Kyoto, Japan.
 
 ## 💻 Tech Stack
 
@@ -17,7 +17,6 @@ I'm an economics student at **Doshisha University** in Kyoto, Japan, passionate 
 
 ## 🌱 Current Focus
 
-- Exploring the intersection of technology and economics
 - Building Chrome extensions with JavaScript
 - Learning C, and C++
 
@@ -43,7 +42,3 @@ I share my technical insights and learnings on:
 </div>
 
 ---
-
-<div align="center">
-  💡 <i>"Exploring technology, economics, and their intersection in the modern world"</i>
-</div>
