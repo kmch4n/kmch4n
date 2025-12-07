@@ -31,14 +31,4 @@ I share my technical insights and learnings on:
 - 💻 GitHub: [@kmch4n](https://github.com/kmch4n)
 - 📝 Qiita: [@kmch4n](https://qiita.com/kmch4n)
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kmch4n&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kmch4n&layout=compact&theme=tokyonight" alt="Top Languages" />
-</div>
-
 ---
