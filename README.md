@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<div align="left">
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=kmch4n" alt="Profile views" />
 </div>
 
@@ -9,19 +9,28 @@
 I'm an economics student at **Doshisha University** in Kyoto, Japan.
 
 ## 💻 Tech Stack
-[![Programming Languages](https://skillicons.dev/icons?i=apple,python,react,html,css,ts,js,ubuntu)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=apple,python,react,html,css,ts,js)](https://skillicons.dev)
 
 ## 🌱 Current Focus
 
 - ⛄️ [SnowLog](https://github.com/kmch4n/SnowLog)
+- 🎿 [SkiSense](https://github.com/kmch4n/SkiSense)
+
+## 🏭️ My Project
+
 - 🚍️ [kcb_linebot](https://github.com/kmch4n/kcb_linebot)
 - 🚍️ [kcb_api](https://github.com/kmch4n/kcb_api)
 - ⌚ [Reminder](https://github.com/kmch4n/Reminder)
-etc...
+- ⛄️ [SnowLog](https://github.com/kmch4n/SnowLog)
+- 🎿 [SkiSense](https://github.com/kmch4n/SkiSense)
 
-## 📫 Connect with Me
+
+## 📫 Output
 
 - 📝 Qiita: [@kmch4n](https://qiita.com/kmch4n)
 - 📝 Blog: [blog.kmchan.jp](https://blog.kmchan.jp/)
+
+## 📧 Contact
+- km.3dori@gmail.com
 
 ---
