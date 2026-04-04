@@ -1,7 +1,7 @@
 # Hi there 👋
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kmch4n" alt="Profile views" />
+<div align="left">
+    <img src="https://komarev.com/ghpvc/?username=kmch4n" alt="Profile views" />
 </div>
 
 ## 🎓 About Me
@@ -29,6 +29,9 @@ I'm an economics student at **Doshisha University** in Kyoto, Japan.
 
 - 📝 Qiita: [@kmch4n](https://qiita.com/kmch4n)
 - 📝 Blog: [blog.kmchan.jp](https://blog.kmchan.jp/)
+
+## 📒 Stats
+<img src="https://github-readme-streak-stats.herokuapp.com?user=kmch4n&theme=highcontrast&hide_border=true&short_numbers=true&mode=weekly" />
 
 ## 📧 Contact
 - km.3dori@gmail.com
