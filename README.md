@@ -24,12 +24,6 @@ I'm an economics student at **Doshisha University** in Kyoto, Japan.
 - ⛄️ [SnowLog](https://github.com/kmch4n/SnowLog)
 - 🎿 [SkiSense](https://github.com/kmch4n/SkiSense)
 
-
-## 📫 Output
-
-- 📝 Qiita: [@kmch4n](https://qiita.com/kmch4n)
-- 📝 Blog: [blog.kmchan.jp](https://blog.kmchan.jp/)
-
 ## 📒 Stats
 <img src="https://github-readme-streak-stats.herokuapp.com?user=kmch4n&theme=highcontrast&hide_border=true&short_numbers=true&mode=weekly" />
 
