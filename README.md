@@ -9,7 +9,7 @@
 I'm an economics student at **Doshisha University** in Kyoto, Japan.
 
 ## 💻 Tech Stack
-[![Programming Languages](https://skillicons.dev/icons?i=apple,python,react,html,css,ts,js)](https://skillicons.dev)
+[![Programming Languages](https://skillicons.dev/icons?i=python,ts,js,html,css,react,pytorch,fastapi,git,ubuntu)](https://skillicons.dev)
 
 ## 🌱 Current Focus
 
@@ -21,6 +21,7 @@ I'm an economics student at **Doshisha University** in Kyoto, Japan.
 - 🚍️ [kcb_linebot](https://github.com/kmch4n/kcb_linebot)
 - 🚍️ [kcb_api](https://github.com/kmch4n/kcb_api)
 - ⌚ [Reminder](https://github.com/kmch4n/Reminder)
+- 🎦 [MediaScribe](https://github.com/kmch4n/MediaScribe)
 - ⛄️ [SnowLog](https://github.com/kmch4n/SnowLog)
 - 🎿 [SkiSense](https://github.com/kmch4n/SkiSense)
 
