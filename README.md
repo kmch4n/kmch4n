@@ -1,6 +1,6 @@
 # Hi there 👋
 
-<img src="https://komarev.com/ghpvc/?username=kmch4n" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=kmch4n" alt="" />
 
 Economics student at **Doshisha University** in Kyoto, Japan.
 I build software around skiing, plus small tools that make everyday life easier.
